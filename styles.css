@@ -1,0 +1,125 @@
+
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: Bisque;
+}
+
+h1 {
+  text-align: center;
+  color: #000000;
+  text-transform: uppercase;
+  text-shadow: 2px 2px #FF8C00;
+}
+
+h2, h3, h4 {
+  text-align: center;
+  color: #000000;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 20px;
+  font-family: Georgia, serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+p {
+  font-family: Georgia, serif;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+ul {
+  font-family: Georgia, serif;
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+#navigation{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+
+#intro {
+  text-align: left;
+  margin-left: 10px;
+}
+
+
+footer {
+  display: block;
+  clear: both;
+  background-color: Peru;
+  text-align: center;
+  padding: 5px;
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+footer p{
+  text-align: center;
+}
+
+.myheader {
+  font-family: Georgia, serif;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+}
+
+.subject {
+  border: 3px solid #000000;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+.about {
+  width: 98%;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.sectionhead {
+  border: 3px solid #000000;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
