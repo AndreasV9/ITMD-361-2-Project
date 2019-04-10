@@ -21,6 +21,11 @@ h2, h3, h4 {
   font-family: Georgia, serif;
 }
 
+#nav ul{
+  display: inline-block;
+  list-style-type: none;
+}
+
 img {
   display: block;
   margin: auto;
