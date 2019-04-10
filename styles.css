@@ -43,7 +43,7 @@ p {
 
 ul {
   font-family: Georgia, serif;
-  text-align: center;
+  text-align: left;
   margin-left: 30px;
   margin-top: 10px;
   margin-bottom: 15px;
@@ -57,7 +57,7 @@ ul {
   top: 8px;
   right: 16px;
   font-size: 18px;
-  text-align:center;
+  text-align: center;
   margin: auto;
   width: 50%
   border: 3px solid orange;
@@ -65,7 +65,7 @@ ul {
 }
 
 #intro {
-  text-align: center;
+  text-align: left;
   margin-left: 10px;
 }
 
