@@ -21,10 +21,6 @@ h2, h3, h4 {
   font-family: Georgia, serif;
 }
 
-#nav ul{
-  display: inline-block;
-  list-style-type: none;
-}
 
 img {
   display: block;
@@ -62,6 +58,10 @@ ul {
   right: 16px;
   font-size: 18px;
   text-align:center;
+  margin: auto;
+  width: 50%
+  border: 3px solid orange;
+  padding: 10px;
 }
 
 #intro {
