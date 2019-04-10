@@ -50,6 +50,7 @@ ul {
   list-style-position: inside;
 }
 
+/*
 #navigation{
   position: absolute;
   top: 8px;
@@ -57,6 +58,25 @@ ul {
   font-size: 18px;
   text-align:center;
 }
+*/
+
+#navigation {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+
+
+#navigation li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}
+
 
 #intro {
   text-align: left;
